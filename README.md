@@ -1,4 +1,4 @@
-### Python (openCV) Lane Detection
+<h1>Python (openCV) Lane Detection</h1>
 <br>
 
 ```python
