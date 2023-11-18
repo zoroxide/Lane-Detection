@@ -3,11 +3,6 @@
 
 
 
-Uploading Lane Detection 2023-11-18 14-47-18.mp4…
-
-
-
-
 ```python
 import cv2
 import numpy as np
